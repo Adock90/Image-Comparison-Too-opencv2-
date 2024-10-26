@@ -7,7 +7,7 @@ using namespace IMGComparison;
 
 int main()
 {
-    //creates onject
+    //creates object
     IMG Image;
     //uses function
     bool Check = IsImageTheSame("hi.png", "hi2.png");
